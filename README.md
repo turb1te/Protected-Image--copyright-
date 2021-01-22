@@ -1,0 +1,1 @@
+Protected Image (copyright)
