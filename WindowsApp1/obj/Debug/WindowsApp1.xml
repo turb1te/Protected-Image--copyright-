@@ -1,0 +1,55 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApp1
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:WindowsApp1.My.Resources.Resource1">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resource1.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resource1.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:WindowsApp1.My.Resources.Resource1._12345">
+<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE html&gt;
+&lt;html ondrag=&quot;return false&quot; ondragstart=&quot;return false&quot; oncontextmenu=&quot;return false&quot; galleryimg=&quot;no&quot; onmousedown=&quot;return false&quot; onkeydown=&quot;return false&quot; onmousemove=&quot;return false&quot; onclick=&quot;return false&quot; style=&quot;pointer-events: none !important;cursor: not-allowed !important;&quot;&gt;
+&lt;body&gt;
+
+&lt;style type=&quot;text/css&quot; media=&quot;print&quot;&gt;
+body {display:none;visibility:hidden;}
+&lt;/style&gt;
+
+&lt;img width=&quot;max&quot; height=&quot;max&quot; src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA1YAAAHgCAYAAACmUPwqAAAgAElEQVR4XuxdB [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>
